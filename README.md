@@ -1,14 +1,13 @@
-# sava
 <html>
     <img src="https://mars.algoritmika.org/uploads/2020/10/frog-159002_1280_0_1603798105.png" height="30px"/><a href="https://zoo61.ru/articles/10-luchshikh-domashnikh-reptiliy-dlya-vashego-terrariuma">Завести рептилию</a>
-    <h1>Экзотический зоопарк</h1>
-    <p>Приглашаем посетить наш зоопарк, чтобы увидеть редких змей, ящериц, пауков и африканских ежей и многих других животных.</p>
-    <p>Цена билета: 200 рублей — детский, 400 рублей — взрослый, фото с животным — 1000 рублей.</p>
-    <p>Пожалуйста, не стучите по террариумам — это пугает животных, и не приносите для животных еду — у каждого вида своя диета.</p>
+    <h1> кофе от шлёпы </h1>
+    <p>Приглашаем посетить наше кофе чтобы увидеть редкие, хорошие пильмени, дошираки и бургеры и кортошку фри.</p>
+    <p>Цена плюд: 1000 рублей — пильмени, доширак 200 рублей, бургер 400 рублей, кортошка фри 500 рублей, фото с шлёпой — 5000 рублей.</p>
+    <p>Пожалуйста, уберайте за собой посуду — за это платят 400 рублей, если вы не убираете за собой штраф 600 рублей.</p>
     <p>
-        <img src="https://mars.algoritmika.org/uploads/2020/10/frog-46397_1280_0_1603917437.png" height="90px"/>
-        <img src="https://mars.algoritmika.org/uploads/2020/10/snake-46151_1280_0_1603917437.png" height="90px"/>
-        <img src="https://mars.algoritmika.org/uploads/2020/10/spider-150051_1280_0_1603917437.png" height="90px"/>
+        <img src="https://royalpridecat.com/wp-content/uploads/2019/11/img_3110-1024x683.jpg" height="90px"/>
+        <img src="https://pbs.twimg.com/media/EcDrjrdWoAI9bKc.jpg" height="90px"/>
+        <img src="https://i.ytimg.com/vi/4f4GjgkXTxM/maxresdefault.jpg" height="90px"/>
     </p>
-    <p>Адрес: город Зверинск, ул. Зелёная, 15</p>
+    <p>Адрес: город Рыбинск, ул. 50 лет влксм (виконда 2 этаж), </p>
 </html>
